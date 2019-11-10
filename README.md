@@ -12,3 +12,4 @@ Nel progetto si definiscono:
 - una quantità di casi di test sufficiente a testare tutti gli operatori aggiuntivi.
 
 È stata inoltre inserita la parte opzionale del progetto: un nuovo operatore rt_eval(exp) che interpreti il linguaggio funzionale assumendo la regola di scoping dinamico.
+#### Nota: L'intero progetto è stato sviluppato e distribuito riservando particolare interesse al tempo di consegna.
