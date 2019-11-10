@@ -9,5 +9,6 @@ Nel progetto si definiscono:
 - la sintassi concreta del linguaggio e la sintassi astratta tramite una opportuna definizione di tipo in OCaML
 - l’interprete OCaMl del linguaggio funzionale assumendo la regola di scoping statico
 - type checker dinamico del linguaggio risultante, in alternativa si può fornire il type checker statico del linguaggio
-- una quantità di casi di test sufficiente a testare tutti gli operatori aggiuntivi
+- una quantità di casi di test sufficiente a testare tutti gli operatori aggiuntivi.
+
 È stata inoltre inserita la parte opzionale del progetto: un nuovo operatore rt_eval(exp) che interpreti il linguaggio funzionale assumendo la regola di scoping dinamico.
