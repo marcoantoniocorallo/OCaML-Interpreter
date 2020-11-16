@@ -12,4 +12,11 @@ Nel progetto si definiscono:
 - una quantità di casi di test sufficiente a testare tutti gli operatori aggiuntivi.
 
 È stata inoltre inserita la parte opzionale del progetto: un nuovo operatore rt_eval(exp) che interpreti il linguaggio funzionale assumendo la regola di scoping dinamico.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Il file FirstV.ml definisce la prima versione sviluppata e consegnata del progetto. 
+Questa versione è funzionante, ma applica le operazioni di dizionario a tipi di dati già valutati: OpToDict(dict : evT).
+Il file Interprete.ml contiene invece la versione finale del progetto, revisionato e corretto dopo l'esame.
+
 #### Nota: L'intero progetto è stato sviluppato e distribuito riservando particolare interesse al tempo di consegna.
