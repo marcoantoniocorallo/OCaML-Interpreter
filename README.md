@@ -13,10 +13,15 @@ Nel progetto si definiscono:
 
 È stata inoltre inserita la parte opzionale del progetto: un nuovo operatore rt_eval(exp) che interpreti il linguaggio funzionale assumendo la regola di scoping dinamico.
 
+#### Nota: L'intero progetto è stato sviluppato e distribuito riservando particolare interesse al tempo di consegna.
 -----------------------------------------------------------------------------------------------------------------------
 
-Il file FirstV.ml definisce la prima versione sviluppata e consegnata del progetto. 
+Il file ListV.ml definisce una prima versione dell'interprete, mai consegnata, facente uso delle liste OCaML.
+Questa versione è stata poi modificata, in quanto prevede l'ausilio di un meccanismo concreto del linguaggio scelto per l'implementazione.
+
+Il file FirstV.ml definisce il progetto consegnato in sede d'esame.
 Questa versione è funzionante, ma applica le operazioni di dizionario a tipi di dati già valutati: OpToDict(dict : evT).
+
 Il file Interprete.ml contiene invece la versione finale del progetto, revisionato e corretto dopo l'esame.
 
-#### Nota: L'intero progetto è stato sviluppato e distribuito riservando particolare interesse al tempo di consegna.
+-----------------------------------------------------------------------------------------------------------------------
