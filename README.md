@@ -13,7 +13,6 @@ Nel progetto si definiscono:
 
 È stata inoltre inserita la parte opzionale del progetto: un nuovo operatore rt_eval(exp) che interpreti il linguaggio funzionale assumendo la regola di scoping dinamico.
 
-#### Nota: L'intero progetto è stato sviluppato e distribuito riservando particolare interesse al tempo di consegna.
 -----------------------------------------------------------------------------------------------------------------------
 
 Il file ListV.ml definisce una prima versione dell'interprete, mai consegnata, facente uso delle liste OCaML.
