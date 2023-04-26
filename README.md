@@ -18,9 +18,6 @@ Nel progetto si definiscono:
 Il file ListV.ml definisce una prima versione dell'interprete, mai consegnata, facente uso delle liste OCaML.
 Questa versione è stata poi modificata, in quanto prevede l'ausilio di un meccanismo concreto del linguaggio scelto per l'implementazione.
 
-Il file FirstV.ml definisce il progetto consegnato in sede d'esame.
-Questa versione è funzionante, ma applica le operazioni di dizionario a tipi di dati già valutati: OpToDict(dict : evT).
-
-Il file Interprete.ml contiene invece la versione finale del progetto, revisionato e corretto dopo l'esame.
+Il file Interprete.ml contiene invece la versione finale del progetto.
 
 -----------------------------------------------------------------------------------------------------------------------
